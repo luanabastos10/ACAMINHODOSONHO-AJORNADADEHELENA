@@ -1,0 +1,70 @@
+body{
+  font-family: "Kanit", sans-serif;
+  background-color: #AA848Above;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin: 0;
+  font-size: 35px;
+  background-image: url("fundo.png");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;  
+  text-shadow: 4px 4px 3px black;
+}
+
+footer{
+  font-family: "Crimson Text", serif;
+  color: white;
+  font-weight: 500;
+  font-size: 25px;
+}
+
+footer a{
+  text-decoration:none;
+  color: white;
+}
+
+footer a:hover{
+  color: #F10C5A;
+  text-decoration: underline;
+}
+
+button{
+  font-family: "Sour Gummy", sans-serif;
+  background-color: brown;
+  border: 2px solid brown;
+  color: white;
+  font-size: 25px;
+  border-radius: 200px;
+  margin: 20px;
+  padding: 0.5em;
+  box-shadow: 3px 3px 4px black;
+}
+
+button:hover{
+  background-color: #F3DD27;
+  border: 2px solid #A86809;
+  color: black;
+}
+
+main{
+  max-width: 90%;
+  text-align: center;
+  padding: 20px;
+  flex: 1;
+}
+
+img{
+  max-width: 90%;
+}
+
+.passo{
+  display: none;
+}
+
+.passo.ativo{
+  display: block;
+}

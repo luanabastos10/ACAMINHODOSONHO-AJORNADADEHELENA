@@ -1,0 +1,81 @@
+Passo 0 - Introdução
+
+Em uma noite chuvosa em Salvador, a cidade parecia mais silenciosa, enquanto Helena, uma jovem mulher negra de 27 anos, caminhava pelas ruas do bairro da Barra. Ela era alta, com olhos castanhos que refletiam uma determinação inabalável. Seus cabelos crespos caíam sobre os ombros, e ela vestia uma camisa branca simples e uma saia longa, com cores vibrantes que destacavam sua presença. Desde pequena, Helena sonhava em ser arquiteta e urbanista, algo que poucas mulheres negras no Brasil conseguiam naquela época. Criada pela mãe, Dona Rosa, uma mulher batalhadora e carinhosa, Helena aprendeu que, apesar das barreiras, era possível alcançar seus sonhos.
+
+Dona Rosa trabalhou a vida inteira como faxineira em um prédio de classe alta, limpando os escritórios de arquitetos e engenheiros, muitos dos quais eram brancos e vindos de famílias ricas. Era nesses corredores, enquanto esperava a mãe, que Helena olhava para os desenhos e plantas espalhados, imaginando que um dia poderia criar prédios que representassem a força do seu povo. Depois de muito estudo e dedicação, ela conseguiu uma bolsa em uma faculdade de arquitetura. E agora, com o diploma em mãos, tinha a oportunidade de uma entrevista para um dos cargos mais desejados da cidade: arquiteta-chefe em um escritório renomado.
+
+Na recepção do escritório, ela sente um frio na barriga. À sua frente, duas opções se apresentam:
+
+Botão 1: Conversar com um funcionário que parece simpático e interessado.
+
+Botão 2: Ficar na sala de espera, concentrando-se e aguardando o momento da entrevista.
+
+Passo 1 - Escolha do Botão 1
+
+Helena escolhe apertar o Botão 1 e conversa com o funcionário. Ele se apresenta como Pedro, um assistente de projetos. Eles trocam algumas palavras, e ela menciona a entrevista. Pedro, encantado com a determinação dela, sugere que conheça alguém influente na empresa, o chefe de desenvolvimento urbano, para entender mais sobre as expectativas para o cargo.
+
+Botão 3: Ir à sala do chefe de desenvolvimento urbano e conversar com ele.
+
+Botão 4: Agradecer Pedro, mas preferir esperar na sala de espera.
+
+Passo 2 - Escolha do Botão 2
+
+Helena escolhe o Botão 2 e permanece na sala de espera, tentando focar na entrevista. Ela fecha os olhos por um momento e respira fundo, lembrando das noites de estudo e das palavras encorajadoras de sua mãe. Logo, uma secretária surge e avisa que ela poderá se encontrar com o chefe de desenvolvimento urbano, que pode orientá-la sobre o cargo.
+
+Botão 5: Ir ao encontro do chefe e conversar sobre o cargo.
+
+Botão 6: Aguardar apenas para a entrevista, preferindo não ter mais influências.
+
+Passo 3 - Escolha do Botão 3
+
+Helena opta pelo Botão 3 e se dirige até a sala do chefe de desenvolvimento urbano. Ao chegar, encontra uma mulher negra, chamada Juliana, que ocupa o cargo de gerente sênior de projetos. Juliana compartilha com Helena que enfrentou desafios similares e oferece seu apoio e conselhos para a entrevista. A conversa é inspiradora.
+
+Botão 9: Continuar conversando com Juliana e ouvir mais sobre suas experiências.
+
+Botão 10: Agradecer Juliana e ir para a entrevista.
+
+Passo 4 - Escolha do Botão 4
+
+Helena escolhe o Botão 4 e retorna para a sala de espera, sentindo-se confiante. Quando finalmente é chamada, ela entra na sala de entrevista e surpreende os diretores com suas ideias e uma visão inovadora. Ao final, recebe a notícia de que foi aprovada para o cargo!
+
+Resultado: Ganhou
+
+Passo 5 - Escolha do Botão 5
+
+Helena escolhe o Botão 5 e vai até a sala do chefe de desenvolvimento urbano, onde conhece Juliana. Juliana conta sua própria trajetória na empresa, e Helena sente-se inspirada por ter um exemplo tão próximo do que gostaria de alcançar.
+
+Botão 7: Continuar ouvindo Juliana e pedir mais conselhos para a entrevista.
+
+Botão 8: Agradecer Juliana e ir para a entrevista com o que já absorveu.
+
+Passo 6 - Escolha do Botão 6
+
+Helena escolhe o Botão 6 e decide aguardar somente para a entrevista, mantendo-se focada. No entanto, durante a conversa com os diretores, acaba se sentindo insegura e não consegue mostrar todo seu potencial. No final, ela é informada de que não foi selecionada para o cargo.
+
+Resultado: Perdeu
+
+Passo 7 - Escolha do Botão 7
+
+Helena escolhe o Botão 7 e continua ouvindo Juliana, absorvendo seus conselhos e experiências. Com uma confiança renovada, ela vai para a entrevista e se destaca pela clareza de suas ideias e segurança. O diretor anuncia que ela foi aprovada para o cargo, e ela sente que todo o esforço finalmente valeu a pena.
+
+Resultado: Ganhou
+
+Passo 8 - Volta para Passo 1
+
+Após essa experiência, Helena retorna ao início e precisa decidir entre conversar com o funcionário ou manter-se focada na espera para a entrevista.
+
+Passo 9 - Escolha do Botão 9
+
+Helena escolhe ouvir mais sobre as experiências de Juliana, que compartilha histórias sobre como superou preconceitos e dificuldades no trabalho. Essa conversa fortalece Helena, e ela entra na entrevista com segurança e determinação. Ao final, é selecionada para o cargo, marcando uma conquista significativa em sua vida.
+
+Resultado: Ganhou
+
+Passo 10 - Escolha do Botão 10
+
+Helena escolhe o Botão 10 e, agradecendo a Juliana, decide ir para a entrevista. No entanto, durante a entrevista, sente-se nervosa e acaba não conseguindo apresentar todas as suas habilidades e ideias. Ao final, é informada de que não foi aprovada.
+
+Resultado: Perdeu
+
+Epílogo
+
+Depois de muitas escolhas e obstáculos, Helena finalmente conquista o tão desejado cargo. Sua trajetória inspira muitos, e ela se torna um exemplo de força e perseverança. Ao contar a novidade para Dona Rosa, vê o brilho nos olhos da mãe e sente que todo o esforço foi recompensado. Ela agora é uma referência e prova viva de que é possível alcançar grandes sonhos, não importa o quão desafiador o caminho possa parecer.
